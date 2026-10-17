@@ -1,0 +1,62 @@
+{
+  "cafenea": {
+    "nume": "Cafenea / Coffee Shop",
+    "locatii": {
+      "1": {
+        "tip_locatie": "Zona Urbană / Centrală",
+        "buget_minim_necesar": 15000,
+        "sursa_informatii": "Studiu de piață Horeca & Commercial Real Estate"
+      }
+    }
+  },
+  "restaurant": {
+    "nume": "Restaurant / Bistro",
+    "locatii": {
+      "1": {
+        "tip_locatie": "Zona Urbană",
+        "buget_minim_necesar": 35000,
+        "sursa_informatii": "Ghidul Antreprenorului Horeca"
+      }
+    }
+  },
+  "salon": {
+    "nume": "Salon de Înfrumusețare / Barber Shop",
+    "locatii": {
+      "1": {
+        "tip_locatie": "Zona Urbană",
+        "buget_minim_necesar": 12000,
+        "sursa_informatii": "Raport Beauty & Personal Care Industry"
+      }
+    }
+  },
+  "fitness": {
+    "nume": "Sală de Fitness / Gym",
+    "locatii": {
+      "1": {
+        "tip_locatie": "Zona Urbană",
+        "buget_minim_necesar": 40000,
+        "sursa_informatii": "Analiză de Piață Wellness & Sports"
+      }
+    }
+  },
+  "bar": {
+    "nume": "Bar / Pub / Club",
+    "locatii": {
+      "1": {
+        "tip_locatie": "Zona Urbană",
+        "buget_minim_necesar": 20000,
+        "sursa_informatii": "Raport Nightlife & Hospitality"
+      }
+    }
+  },
+  "patiserie": {
+    "nume": "Patiserie / Brutărie / Covrigărie",
+    "locatii": {
+      "1": {
+        "tip_locatie": "Zona Pietonală / Tranzit",
+        "buget_minim_necesar": 18000,
+        "sursa_informatii": "Studiu Retail Alimentar & Panificație"
+      }
+    }
+  }
+}
