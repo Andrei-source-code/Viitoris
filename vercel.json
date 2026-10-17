@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "index.py",
+      "use": "@vercel/python",
+      "config": { "includeFiles": ["baza_cariere.csv", "surse_piata.json"] }
+    }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "index.py" }
+  ]
+}
